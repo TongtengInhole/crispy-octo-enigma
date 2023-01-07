@@ -124,6 +124,10 @@
       "inh": "AudioNode",
       "impl": []
     },
+    "AudioSinkInfo": {
+      "inh": "",
+      "impl": []
+    },
     "AudioTrack": {
       "inh": "",
       "impl": []
@@ -316,6 +320,10 @@
       "inh": "Event",
       "impl": []
     },
+    "CaptureController": {
+      "inh": "",
+      "impl": []
+    },
     "CaretPosition": {
       "inh": "",
       "impl": []
@@ -464,6 +472,10 @@
       "inh": "CSSColorValue",
       "impl": []
     },
+    "CSSColorProfileRule": {
+      "inh": "CSSRule",
+      "impl": []
+    },
     "CSSColorValue": {
       "inh": "CSSStyleValue",
       "impl": []
@@ -589,10 +601,6 @@
       "impl": []
     },
     "CSSNamespaceRule": {
-      "inh": "CSSRule",
-      "impl": []
-    },
-    "CSSNestingRule": {
       "inh": "CSSRule",
       "impl": []
     },
@@ -734,10 +742,6 @@
     },
     "CSSVariableReferenceValue": {
       "inh": "",
-      "impl": []
-    },
-    "CSSViewportRule": {
-      "inh": "CSSRule",
       "impl": []
     },
     "CustomElementRegistry": {
@@ -1068,6 +1072,10 @@
       "inh": "",
       "impl": []
     },
+    "FileSystemSyncAccessHandle": {
+      "inh": "",
+      "impl": []
+    },
     "FileSystemWritableFileStream": {
       "inh": "WritableStream",
       "impl": []
@@ -1262,6 +1270,10 @@
     },
     "GPUOutOfMemoryError": {
       "inh": "GPUError",
+      "impl": []
+    },
+    "GPUPipelineError": {
+      "inh": "DOMException",
       "impl": []
     },
     "GPUPipelineLayout": {
@@ -1540,6 +1552,10 @@
       "inh": "HTMLElement",
       "impl": []
     },
+    "HTMLModelElement": {
+      "inh": "HTMLElement",
+      "impl": []
+    },
     "HTMLModElement": {
       "inh": "HTMLElement",
       "impl": []
@@ -1724,6 +1740,10 @@
       "inh": "Credential",
       "impl": []
     },
+    "IdentityProvider": {
+      "inh": "",
+      "impl": []
+    },
     "IdleDeadline": {
       "inh": "",
       "impl": []
@@ -1785,10 +1805,6 @@
       "impl": []
     },
     "Instance": {
-      "inh": "",
-      "impl": []
-    },
-    "InteractionCounts": {
       "inh": "",
       "impl": []
     },
@@ -2481,6 +2497,10 @@
       "impl": []
     },
     "PressureObserver": {
+      "inh": "",
+      "impl": []
+    },
+    "PressureRecord": {
       "inh": "",
       "impl": []
     },
@@ -3552,6 +3572,10 @@
       "inh": "PermissionStatus",
       "impl": []
     },
+    "UserActivation": {
+      "inh": "",
+      "impl": []
+    },
     "ValidityState": {
       "inh": "",
       "impl": []
@@ -3594,6 +3618,10 @@
     },
     "ViewTimeline": {
       "inh": "ScrollTimeline",
+      "impl": []
+    },
+    "ViewTransition": {
+      "inh": "",
       "impl": []
     },
     "VirtualKeyboard": {
@@ -3906,6 +3934,10 @@
     },
     "XRBoundedReferenceSpace": {
       "inh": "XRReferenceSpace",
+      "impl": []
+    },
+    "XRCamera": {
+      "inh": "",
       "impl": []
     },
     "XRCompositionLayer": {
